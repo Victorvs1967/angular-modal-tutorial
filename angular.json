@@ -49,9 +49,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.sass"
-            ],
+            "styles": [ "src/styles.sass" ],
             "scripts": []
           },
           "configurations": {
@@ -117,13 +115,14 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.sass"
-            ],
+            "styles": [ "src/styles.sass" ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "074a6320-4e35-43f9-a69e-787370665e2e"
   }
 }
